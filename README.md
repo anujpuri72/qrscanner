@@ -1,6 +1,6 @@
-# scan
+# Scan
 
-A qr code scanner app made in flutter
+A QR Code Scanner app made in Flutter.
 
 ## Getting Started
 
