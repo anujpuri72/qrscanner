@@ -18,12 +18,12 @@ samples, guidance on mobile development, and a full API reference.
 ## How to run
 
 ```
-$ git clone https://github.com/anvaymishra1/qrscanner.git
+$ git clone https://github.com/anujpuri72/qrscanner.git
 ```
 
 [Install flutter](flutter.dev)
 
-Change directory to Calculator Folder.
+Change directory to qrscanner Folder.
 
 connect your mobile device or emulator.
 
