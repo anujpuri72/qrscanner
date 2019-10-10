@@ -1,6 +1,9 @@
+
 # QRScanner
 
 A QR code scanner app built with flutter with UI resembling that of One Plus. 
+
+
 
 ## Getting Started
 
