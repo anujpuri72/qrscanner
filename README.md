@@ -1,6 +1,6 @@
-# scan
+# Scan
 
-A new Flutter project.
+A QR Code Scanner app made in Flutter.
 
 ## Getting Started
 
